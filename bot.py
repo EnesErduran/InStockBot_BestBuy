@@ -8,14 +8,12 @@ import undetected_chromedriver as uc
 
 import info
 
-# make sure this path is correct
-PATH = "C:\Development\ChromeDriverForSelenium\chromedriver.exe"
-
-#driver = webdriver.Chrome(PATH)
+#Initializing driver
 driver = uc.Chrome()
 
+#Update this with the link of the item you want to get
 Link1 = "https://www.bestbuy.com/site/hogwarts-legacy-collectors-edition-playstation-5/6518482.p?skuId=6518482"
-TestLink = "https://www.bestbuy.com/site/msi-nvidia-geforce-gtx-1660-super-ventus-xs-oc-6gb-gddr6-pci-express-3-0-graphics-card/6518174.p?skuId=6518174"
+
 
 driver.get(Link1)
 
