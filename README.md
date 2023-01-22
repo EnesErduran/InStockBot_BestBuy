@@ -13,7 +13,7 @@
 - Selenium
 	- `pip install selenium`
 - Undetected Chrome Driver
-    - 'pip install undetected-chromedriver'
+    - `pip install undetected-chromedriver`
     - You have to use undetected-chromedriver instead of the regular one due to websites blocking the regular one
 - [Google Chrome](https://www.google.com/chrome/)
 
