@@ -20,8 +20,9 @@
 
 ## Running the Bot
 1. Make sure you have Python
-2. Edit the info.py file with all your information
-3. Navigate to your project directory and run the bot.py script from your preferred environment
-4. Feel free to change the Best Buy links in the bot.py file to any item on bestbuy.com
+2. Install the dependencies on your directory using the given commands
+3. Edit the info.py file with all your information
+4. Navigate to your project directory and run the bot.py script from your preferred environment
+5. Feel free to change the Best Buy links in the bot.py file to any item on bestbuy.com
 
 
