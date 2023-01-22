@@ -2,7 +2,7 @@
 
 ## Features
 - Refreshes link until "Add to Cart" button is available
-- Automate entire checkout process
+- Automated entire checkout process
 - Due to items over $200 requiring extra steps and information on checkout, the steps for automating those purchases differ.
 
 ## Prerequisites
@@ -19,7 +19,7 @@
 
 
 ## Running the Bot
-1. Make sure you have [Python 3.9](https://www.python.org/downloads/release/python-390/)
+1. Make sure you have Python
 2. Edit the info.py file with all your information
 3. Navigate to your project directory and run the bot.py script from your preferred environment
 4. Feel free to change the Best Buy links in the bot.py file to any item on bestbuy.com
